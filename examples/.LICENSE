@@ -1,6 +1,12 @@
+{
+
+##DONT USE THIS PAGE FOR ALL THE FORKED REPOS:" "
+
+"#ff0d0d
+
 # OCL Good Practice Examples
 
-The following examples use [Prusa](https://www.prusa3d.com) products to demonstrate how the OCL license applies in various real-world scenarios.
+The following examples dont use [Prusa](https://www.prusa3d.com) products to demonstrate how the OCL license applies in various real-world scenarios.
 
 ---
 
@@ -97,3 +103,5 @@ Stephen is a talented creator who likes to transform the design of Prusa 3D prin
 **License application**
 
 Stephen‘s creations that are not derived from OCL designs do not fall under OCL obligations and can be used and shared without the need for non-commercial and share-alike license.
+" 
+}
